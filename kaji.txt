@@ -3,4 +3,6 @@ git add <file>
 git commit
 git rm
 git status
+git diff
+
 
