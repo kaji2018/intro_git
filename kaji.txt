@@ -5,6 +5,8 @@ git rm
 git status
 git diff
 git day
+git tortoise
+
 
 
 
